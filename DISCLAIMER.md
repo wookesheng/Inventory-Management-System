@@ -1,0 +1,9 @@
+## Disclaimer
+This project has been adapted for public sharing.
+
+Some features, configurations, and source code have been removed or altered due to:
+- Privacy concerns
+- Security considerations
+- Protection of sensitive data
+
+As a result, this repository may not be fully functional. It is intended solely for demonstration, learning, and portfolio showcase purposes.
