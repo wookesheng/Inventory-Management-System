@@ -22,12 +22,47 @@ This project was developed as part of my Final Year Project to demonstrate skill
 ---
 
 ## Screenshots
-> *(Add screenshots here)*
-- Login page
-- Dashboard view
-- Inventory management page
-- Reports page
-- Profile settings
-- Notifications page
+- Login & Reset Password Page
+  
+![Alt text](capture/IMS_login.png)
+
+![Alt text](capture/IMS_reset.png)
+
+- Dashboard Page
+  
+![Alt text](capture/IMS_dashboard.png)
+
+- Warehouse Management Page
+  
+![Alt text](capture/IMS_warehouse_management.png)
+
+- Warehouse Details Page
+  
+![Alt text](capture/IMS_warehouse_details.png)
+
+- Inventory Page
+  
+![Alt text](capture/IMS_inventory.png)
+
+- Inventory Tracking Page
+  
+![Alt text](capture/IMS_tracking.png)
+
+- Notification Page
+  
+![Alt text](capture/IMS_notification.png)
+
+- Report Generator Page
+  
+![Alt text](capture/IMS_report.png)
+
+- User Management Page
+  
+![Alt text](capture/IMS_user_management.png)
+
+- Profile Settings Page
+  
+![Alt text](capture/IMS_settings.png)
+
 
 ---
